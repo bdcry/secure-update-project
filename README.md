@@ -185,5 +185,3 @@ secure-update/
 │       └── app.py
 └── tests/
     └── test_secure_update.py
-
-# secure-update-project
